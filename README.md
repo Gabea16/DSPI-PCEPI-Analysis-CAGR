@@ -1,1 +1,2 @@
-# DSPI-PCEPI-Analysis
+# DSPI-PCEPI-Analysis-CAGR
+This project was done in RStudio. In this project, I performed various analyses on the DSPI and PCEPI data sets. Including indicies, inflation adjusted values, visualizing real values, creating and visualizing subsets, calculating montly and annual growth rates, and finally calculating the compound annual growth rate of a subset (CAGR). CAGR was calculated to measure the average annual growth rate of the variable within the subset, while accounting for the effects of compounding over time. It essentially provided a single, smoothed-out rate of growth that reflects the steady increase in real DSPI (the variable on which CAGR is used), assuming it had grown at a constant rate each year.
